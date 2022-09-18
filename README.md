@@ -13,18 +13,18 @@ By pressing the title **UFO Sightings** at top of the web page, by refreshing th
 
 ### Structure of the web page
 
-![Top of the Web page](images/page_ss_01.png)
-![Search area and the table of the Web page](images/page_ss_02.png)
+![Top of the Web page](static/images/page_ss_01.png)
+![Search area and the table of the Web page](static/images/page_ss_02.png)
 
 ### How to perform filtering?
 
 Enter the keyword in the field, that the data is needed to filter out and then press _Enter key_.
 
-![Single parameter search](images/single_parameter.png)
+![Single parameter search](static/images/single_parameter.png)
 
 We also can filter data by entering multiple keywords in multiple fields at once. This result will depend on all the keywords entered.
 
-![Multiple keyword search](images/multi_parameter.png)
+![Multiple keyword search](static/images/multi_parameter.png)
 
 ## Summary
 
